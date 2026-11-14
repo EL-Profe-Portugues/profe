@@ -29,7 +29,7 @@
       "the_profe-app/tests/theme.test.ts",
       "the_profe-app/tests/tokens.test.ts"
     ],
-    "status": "in_progress"
+    "status": "done"
   },
   {
     "id": "E1-T2",
@@ -59,7 +59,7 @@
       "the_profe-app/app/(tabs)/ajustes.tsx",
       "the_profe-app/tests/navigation.test.tsx"
     ],
-    "status": "pending"
+    "status": "in_progress"
   },
   {
     "id": "E1-T3",
